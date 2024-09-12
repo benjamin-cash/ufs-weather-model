@@ -12,7 +12,7 @@
   branch = master
 [submodule "CMakeModules"]
   path = CMakeModules
-  url = https://github.com/NOAA-EMC/CMakeModules
+  url = https://github.com/benjamin-cash/CMakeModules
   branch = develop
 [submodule "CMEPS"]
   path = CMEPS-interface/CMEPS
