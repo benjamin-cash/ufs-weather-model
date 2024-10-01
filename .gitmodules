@@ -13,7 +13,7 @@
 [submodule "CMakeModules"]
   path = CMakeModules
   url = https://github.com/benjamin-cash/CMakeModules
-  branch = develop
+  branch = frontera_container
 [submodule "CMEPS"]
   path = CMEPS-interface/CMEPS
   url = https://github.com/NOAA-EMC/CMEPS
