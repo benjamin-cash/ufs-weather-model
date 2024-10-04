@@ -13,7 +13,7 @@
 [submodule "CMakeModules"]
   path = CMakeModules
   url = https://github.com/benjamin-cash/CMakeModules
-  branch = feature/container
+  branch = feature/SFS_container
 [submodule "CMEPS"]
   path = CMEPS-interface/CMEPS
   url = https://github.com/NOAA-EMC/CMEPS
