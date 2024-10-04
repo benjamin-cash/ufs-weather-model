@@ -1,7 +1,7 @@
 [submodule "FV3"]
   path = FV3
   url = https://github.com/benjamin-cash/fv3atm
-  branch = frontera_container
+  branch = feature/container
 [submodule "WW3"]
   path = WW3
   url = https://github.com/NOAA-EMC/WW3
@@ -13,7 +13,7 @@
 [submodule "CMakeModules"]
   path = CMakeModules
   url = https://github.com/benjamin-cash/CMakeModules
-  branch = frontera_container
+  branch = feature/container
 [submodule "CMEPS"]
   path = CMEPS-interface/CMEPS
   url = https://github.com/NOAA-EMC/CMEPS
